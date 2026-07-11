@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+Sastrawi
+wordcloud
+google-play-scraper
+joblib
